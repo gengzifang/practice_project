@@ -1,0 +1,5 @@
+server:
+  uri-encoding: utf-8
+  port: 8089
+
+
